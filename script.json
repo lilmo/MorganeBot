@@ -1,8 +1,8 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Morgane, a Project Manager currently working at Ubisoft in Montreal, Canada.\n![ubisoft](https://raw.githubusercontent.com/lilmo/MorganeBot/master/img/ubisoft.jpg) %[Tell me about Morgane](postback:tell_me_about_morgane)",
+    "BOT": "Hi there!\nI’m the personal bot of Morgane, a Project Manager currently working at Ubisoft in Montreal, Canada.\n![ubisoft](https://raw.githubusercontent.com/lilmo/MorganeBot/master/img/ubisoft.jpg) %[Tell me about her](postback:tell_me_about_her)",
     "HELLO": "Hey, I'm so glad you set MorganeBot up! Do you want to tell Morgane that you're talking to her bot? %[Tell her](postback:twitter)",
 	"TELL ME ABOUT MORGANE": "Morgane is a French woman, currently working as an ECM Project Manager at Ubisoft, in Montreal, Canada. %[What is Ubisoft?](postback:ubisoft) %[What is ECM?](postback:ecm) %[How did she get here?](postback:how)",
-	"ECM": "ECM = Enterprise Content Management %[How did she get here?](postback:how) %[How does she do exactly?](postback:what)",
+	"WHAT IS ECM": "ECM = Enterprise Content Management %[How did she get here?](postback:how) %[How does she do exactly?](postback:what)",
     "TELL HER": "Let's tweet @ Morgane so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Morgane](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
