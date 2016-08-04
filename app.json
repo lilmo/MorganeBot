@@ -3,8 +3,8 @@
   "description": "Morgane, bot.",
   "keywords": ["morgane", "bot"],
   "website": "https://estherbot.com",
-  "repository": "https://github.com/esthercrawford/smooch-bot-example",
-  "logo": "http://www.estherbot.com/wp-content/uploads/2016/03/EstherBot-photo.png",
+  "repository": "https://github.com/lilmo/MorganeBot",
+  "logo": "http://www.stickaz.com/4371-5256-large/cute-bot.png",
   "env": {
     "SMOOCH_APP_TOKEN": {
       "description": "Your Smooch app token which is used to initialize the web widget.",
