@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Morgane, a Project Manager currently working at Ubisoft in Montreal, Canada.\n![ubisoft](https://raw.githubusercontent.com/lilmo/MorganeBot/master/img/ubisoft.jpg)\n%[Tell me about her](postback:tell_me_about_her)",
+    "BOT": "Hi there!\nI'm the personal bot of Morgane, Project Manager currently working at Ubisoft in Montreal, Canada.\n![ubisoft](https://raw.githubusercontent.com/lilmo/MorganeBot/master/img/ubisoft.jpg)\n%[Tell me about her](postback:tell_me_about_her)",
     "HELLO": "Hey, I'm so glad you set MorganeBot up! Do you want to tell Morgane that you're talking to her bot? %[Tell her](postback:twitter)",
 	"TELL ME ABOUT HER": "Morgane is a French 🇫🇷 woman, currently working as KM Project Manager at Ubisoft, in Montreal, Canada 🇨🇦. %[What is Ubisoft?](postback:ubisoft) %[What is KM?](postback:km) %[How did she get here?](postback:how)",
 	"WHAT IS UBISOFT?": "Ubisoft is a video game company. You might know some of our games like Assassin's Creed\n ![assassin](https://raw.githubusercontent.com/lilmo/MorganeBot/master/img/assassin.jpg)\n",
